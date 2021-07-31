@@ -1,0 +1,15 @@
+{
+  "name": "@coosvip/chevereto",
+  "version": "0.0.1",
+  "dependencies": {
+    "flarum-webpack-config": "0.1.0-beta.10"
+  },
+  "scripts": {
+    "build": "webpack --mode production",
+    "watch": "webpack --mode development --watch"
+  },
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
