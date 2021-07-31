@@ -10,7 +10,7 @@
     "type": "flarum-extension",
     "license": "MIT",
     "require": {
-        "flarum/core": "^0.1.0-beta.8"
+        "flarum/core": "^0.1.0-beta.20"
     },
     "extra": {
         "flarum-extension": {
@@ -26,7 +26,7 @@
     },
     "authors": [
         {
-            "name": "Jasper",
+            "name": "coosvip",
             "email": "5779512@qq.com",
             "homepage": "https://chat.coos.vip"
         }
@@ -37,7 +37,7 @@
         }
     },
     "support": {
-        "email": "zhujiap.cn@gmail.com",
+        "email": "5779512@qq.com",
         "issues": "https://github.com/coosvip/flarum-chevereto/issues",
         "source": "https://github.com/coosvip/flarum-chevereto"
     }
